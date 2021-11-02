@@ -1,0 +1,24 @@
+{
+  "your-project-id": [
+    {
+      "name": "01_removeContentItems.js",
+      "order": 1,
+      "success": true,
+      "time": "2021-11-02T17:55:06.543Z"
+    }
+  ],
+  "573a9d2f-2982-0002-eb1a-b7385224ea2e": [
+    {
+      "name": "01_removeContentItems.js",
+      "order": 1,
+      "success": true,
+      "time": "2021-11-02T19:04:27.256Z"
+    },
+    {
+      "name": "02_removeContentTypes.js",
+      "order": 2,
+      "success": true,
+      "time": "2021-11-02T19:09:31.141Z"
+    }
+  ]
+}

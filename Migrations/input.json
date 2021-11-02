@@ -1,0 +1,29 @@
+{
+    "itemsToRemove": [
+        "home_v2",
+        "home_ab",
+        "home_kk",
+        "home___pricing___free",
+        "home___pricing___enterprise",
+        "home___pricing___professional",
+        "home_ab___product___customer_experience",
+        "home_ab___product___technology",
+        "home_ab___product___content",
+        "home___content_management",
+        "home___content_delivery",
+        "home___customer_engagement"
+    ],
+    "typesToRemove": [
+        "home_page_v2",
+        "home_page_kk",
+        "home_ab",
+        "home_page___pricing_plan",
+        "home_page___product",
+        "pricing_page___plan",
+        "pricing_page___plan_v2",
+        "pricing_page_v2",
+        "pricing_page",
+        "pricing_page___traffic_parameters",
+        "content_item___header"
+    ]
+}
