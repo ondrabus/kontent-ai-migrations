@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/
+/Migrations/*.map
+/Migrations/*.js
+/Migrations/*.d.ts
+.environments.json

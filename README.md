@@ -43,3 +43,6 @@ kontent migration run -e TESTENV -n 01_removeContentItems
 Alternatively, you can use `npm run migrate` and `npm run migrate:all` but make sure you adjust the name of the target environment in the `package.json` first!
 
 You will get real time output in the console window.
+
+# Typescript
+Migrations scripts should be written in TypeScript. Therefore, *.js files in Migrations folder are ignored in .gitignore. If you need to use *.js files, make sure to exclude them in .gitignore.
